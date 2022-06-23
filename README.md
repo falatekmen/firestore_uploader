@@ -12,7 +12,7 @@ Go to the project folder and run:
 
 Open your project in [Firebase](https://console.firebase.google.com). Click Setting > Project Settings > Service Accounts. Copy the databaseURL in the Admin SDK configuration snippet and click `Generate new private key`.
 
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/81239267/165608463-029fdc94-d94c-4e29-bad3-65f370c121f3.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/81239267/175347065-a524b185-fe55-4304-8b36-eafcbc3023ea.png">
 
 Add the databaseURL to uploader.js. If there is no databaseURL in Service Accounts, click Project Settings > General and add the Project ID number there to PROJECT_ID in the uploader.js.
 
