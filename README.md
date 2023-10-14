@@ -4,7 +4,7 @@
 
 Download the project:
 
-    git clone https://github.com/falatekmen/upload_json_to_firestore.git
+    git clone https://github.com/falatekmen/firestore_uploader.git
     
 Go to the project folder and run:
 
